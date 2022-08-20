@@ -255,4 +255,5 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-!my-best.pt
+!my-best-meter.pt
+!my-best-number.pt
